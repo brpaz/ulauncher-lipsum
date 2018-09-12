@@ -12,7 +12,7 @@
         {
             "id": "kw",
             "type": "keyword",
-            "name": "Keyword",
+            "name": "Lorem Ipsum",
             "default_value": "lipsum"
         }
     ]
