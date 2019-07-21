@@ -1,6 +1,5 @@
 {
-    "manifest_version": "2",
-    "api_version": "1",
+    "required_api_version": "^2.0.0",
     "name": "Lipsum",
     "description": "Generates custom Lorem ipsum text",
     "developer_name": "Bruno Paz",
